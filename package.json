@@ -1,0 +1,7 @@
+{
+  "name": "diario-forex-pwa",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Diario de trading Forex con calendario, estadísticas y PWA",
+  "dependencies": { "@netlify/blobs": "^8.2.0" }
+}

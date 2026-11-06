@@ -1,0 +1,9 @@
+[build]
+  publish = "."
+  functions = "netlify/functions"
+
+[[redirects]]
+  from = "/api/guardar"
+  to = "/.netlify/functions/guardar"
+  status = 200
+  force = true
